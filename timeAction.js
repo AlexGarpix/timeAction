@@ -6,10 +6,10 @@ exports.timeAction = function(callback, round, freq, time_end){
 	}
 
 	var round_time  	= round,
-		frequency 		= freq,
+		frequency 	= freq,
 		call_function 	= callback,
 		start_time  	= new Date().getTime(),
-		diff_time  		= false,
+		diff_time  	= false,
 		time_clear_interval = false,
 		interval;
 
