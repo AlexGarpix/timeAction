@@ -2,7 +2,7 @@
 
 TimeAction is a smart counter. It is transmitted by the callback function with a predetermined period of time. You can limit the time the counter putting the end date of his work.
 
-	Run it is very easy =)
+Run it is very easy =)	
 
 	var http = require('http'),
 		time = require('./timer'),
