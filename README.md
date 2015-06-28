@@ -19,7 +19,7 @@ Run it is very easy =)
 
 
 	param1 - name callback method
-	param2 - milliseconds/seconds/minutes/hours/days
+	param2 - ms(milliseconds)/(s)seconds/(m)minutes/(h)hours/(d)days
 	param3 - the number of milliseconds, seconds, etc
 	param4 - end date of operation of the counter
 	
